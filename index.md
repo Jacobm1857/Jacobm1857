@@ -5,6 +5,7 @@ Email: mackja@myumanitoba.ca
 
 ## **Personal Profile:**  
 **Programming/Technical Experience**  
+
 | Language      | Experience Level|      
 | ------------- |---------------  |
 | Java          | Seasoned        |
