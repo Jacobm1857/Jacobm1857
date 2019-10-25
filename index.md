@@ -3,10 +3,21 @@
 Phone: (204) 998 6577  
 Email: mackja@myumanitoba.ca
 
-## **Personal Profile:**   
-(brief description of your personal experience [programming languages, etc...])
+## **Personal Profile:**  
+**Programming/Technical Experience**  
+| Language      | Experience Level|      
+| ------------- |---------------  |
+| Java          | Seasoned        |
+| C++           | Moderate        |
+| C             | Moderate        |
+| Ruby          | Moderate        |
+|Processing     | Moderate        |
+| LC3           | Moderate        |
+| HTML          | Rudimentary     |
+| CSS           | Rudimentary     |
+| JavaScript    | Rudimentary     |
+| Python        | Rudimentary     | 
 
-/*continue here*/
 
 ## **Education**  
 Current Bachelor of Science student, Computer Science Major 		        
@@ -31,10 +42,4 @@ _Extreme Fries Food Truck (Summer 2017 - Current)_
 * Maintain consistant pace under extremely high stress scenarios
 * Helped coworkers with their positions during high volumes of orders 
 
-## **Awards**
-Academic All Canadian							        2017 - Present  
-*	Maintained 3.5 GPA or higher every semester since entering university as an athlete
-Russel Metals Academic Scholarship							2017
-*	3500$ toward university for showing high achievement and leadership both inside and outside of the classroom
-Queen Elizabeth Scholarship Winner						2016 - 2017
-*	3000$ graduation scholarship for maintaining a 95% average in throughout senior year
+
