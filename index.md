@@ -24,8 +24,8 @@ Email: mackja@myumanitoba.ca
 Current Bachelor of Science student, Computer Science Major 		        
 _University of Manitoba, Winnipeg, MB_  
 *	GPA 3.70/4.50  
-*	Selected to tutor Students in earlier years classes for annual Cram day  
-*	Participant in Coding Competition hosting by University
+*	Made honour roll during first year  
+*	No grades lower than a B in any computer science classes 
 
 ## **Employment experience**  
 **Sports Coach/Group Leader**  
