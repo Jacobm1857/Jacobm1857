@@ -1,9 +1,9 @@
 # How to Host Your Resume Using GitHub Pages
 
 ### Who is this Made For?
-This is written for those who have none to minimal experience with GitHub, Jekyll, Atom or Markdown.
+This is written for those who have none to minimal experience with GitHub, Jekyll, Atom or Markdown. This tutorial will cover the steps for hosting a resume on GitHub pages more in-depth than the act of creating the resume itself. If you need help with creating an effective resume, visit the "Where Can You Get More Help?" section of this tutorial. 
 
-### What do you need?
+### What Do You Need?
 You will need to have a few things in order to get started:
 1. A computer with available hard drive space.
 2. A current Email address.
@@ -11,7 +11,7 @@ You will need to have a few things in order to get started:
 4. A basic understanding of computers.
 5. Some patience.
 
-### How do you do it?
+### How Do You Do It?
 #### Make a GitHub Account
 To start things off, you will need to make a GitHub account.  
 
@@ -115,7 +115,7 @@ Give GitHub a few minutes to update everything before you try viewing your site 
 Congratulations! Your resume is now finished and being hosted on GitHub pages!
 
 
-### Where can you get more help?
+### Where Can You Get More Help?
 If you would like to learn more about Jekyll, check out [Mike Dane's Jekyll tutorials](www.https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB).  
 
 If you're looking for more markdown help, GitHub has a tutorial [available here](https://guides.github.com/features/mastering-markdown/).  
@@ -125,11 +125,12 @@ If you would like more information on GitHub pages and hosting static websites, 
 - [ProgrammingKnowledge2's video tutorial](https://www.youtube.com/watch?v=nqXWfXNc0gs)
 - [OSTraining's Beginners Guide to Gi tHub Pages](https://www.ostraining.com/blog/coding/github-pages/)
 
+If you're looking for more help with creating a resume, check out this article by Christian Eilers at [Zety Blog](https://zety.com/blog/how-to-make-a-resume). He does a great job explaining the steps of creating a strong resume. 
 
-### Who helped make this?
+### Who Helped Make This?
 Special thanks to my group members Jordan Portz and Risto "Riki" Zimbakov for their assistance in creating my resume and web pages. Credit to Matt Graham for creating the theme that I used on my resume.
 
-### Any more questions?
+### Any More Questions?
 Here are some frequently asked questions (FAQs) if you need any extra help.  
 
 Q. Can I further modify my resume theme's looks?  
