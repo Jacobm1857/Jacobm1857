@@ -123,7 +123,7 @@ If you're looking for more markdown help, GitHub has a tutorial [available here]
 If you would like more information on GitHub pages and hosting static websites, here's a few resources.
 - [GitHub's tutorial on pages](https://guides.github.com/features/pages/)
 - [ProgrammingKnowledge2's video tutorial](https://www.youtube.com/watch?v=nqXWfXNc0gs)
-- [OSTraining's Beginners Guide to Gi tHub Pages](https://www.ostraining.com/blog/coding/github-pages/)
+- [OSTraining's Beginners Guide to GitHub Pages](https://www.ostraining.com/blog/coding/github-pages/)
 
 If you're looking for more help with creating a resume, check out this article by Christian Eilers at [Zety Blog](https://zety.com/blog/how-to-make-a-resume). He does a great job explaining the steps of creating a strong resume. 
 
