@@ -15,27 +15,38 @@ You will need to have a few things in order to get started:
 #### Make a GitHub Account
 To start things off, you will need to make a GitHub account.  
 
-Step 1: Go to [GitHub](https://www.github.com). A front page will come up with a prompt for signing up.   
+Step 1: Go to [GitHub](https://www.github.com).  
+A front page will come up with a prompt for signing up.   
 
-Step 2: Sign up for GitHub Pages. There will be two options for account types: free or paid. You will only need the free version, but the paid subscription works if you so choose.
+Step 2: Sign up for GitHub Pages.  
+There will be two options for account types: free or paid. You will only need the free version, but the paid subscription works if you so choose.
 
 #### Install Atom
 Next up, you will need Atom installed on your computer.  
 
-Step 1: Go to [Atom's Website](https://atom.io). There will be a large button center screen prompting you to download.  
+Step 1: Go to [Atom's Website](https://atom.io).  
+There will be a large button center screen prompting you to download.  
 
-Step 2: Download Atom. Click the large download button to begin the download process.
+Step 2: Download Atom.  
+Click the large download button to begin the download process.
 
-Step 3: Install Atom. The installation process is (relatively) quick and simple. Follow the atom installer's prompts, and atom will be installed and ready in no time at all.
+Step 3: Install Atom.  
+The installation process is (relatively) quick and simple. Follow the atom installer's prompts, and atom will be installed and ready in no time at all.
 
 #### Create your Resume
 To get things started you're going to want to convert your resume into a markdown file.  
 
-Step 1: Create a new file. Click the file tab at the top left of your page and click the new file button.  
+Step 1: Open Atom.  
+Navigate to wherever you downloaded Atom to (likely your desktop) and open Atom. Atom is quite large and may take a few seconds to open. If this is your first time opening Atom, the program will walk you through some beginner steps. 
 
-Step 2: Convert your resume into markdown. If you're familiar with markdown, this step shouldn't take long. If this is your first time hearing of markdown or just need some practice, visit this [Markdown Tutorial.](https://www.markdowntutorial.com)  
+Step 2: Create a new file.  
+Click the file tab at the top left of your page and click the new file button.  
 
-Step 3: Save the resume file as "index.md". This naming convention is necessary for applying a Jekyll theme later.  
+Step 3: Convert your resume into markdown.  
+If you're familiar with markdown, this step shouldn't take long. If this is your first time hearing of markdown or just need some practice, visit this [Markdown Tutorial.](https://www.markdowntutorial.com)  
+
+Step 4: Save the resume file as "index.md".  
+This naming convention is necessary for applying a Jekyll theme later.  
 
 #### Host your Resume on GitHub
 Once you have your resume in markdown, it's time to start using your GitHub account. There are a few steps you'll need to take in order to host your resume. Many of these steps will be broken up into sub-steps, as the process can be quite complex.
@@ -65,7 +76,9 @@ Step 3: Commit your changes.
 Feel free to add a commit message if you would like in the space provided. It should just be a short description of what you did. Then click "Commit Changes". Your resume is now on GitHub!
 
 ##### Step 3. Host your Resume and Add a Jekyll Theme  
-Adding a Jekyll theme is a great way to add some flare to your resume. The following instructions will describe how exactly to add a theme using GitHub's theme chooser.
+Adding a Jekyll theme is a great way to add some flare to your resume. The following instructions will describe how exactly to add a theme using GitHub's theme chooser.  
+
+**WARNING:** Some Jekyll themes are not formatted to handle tables. If you use tables in your resume, preview your theme before you send out your link, as the table may be broken. 
 
 Step 1: navigate to the settings tab of your repository.  
 This tab is located near the top of the screen, a little right of center. Click on it once you've located it.
@@ -81,7 +94,7 @@ Step 4: Add the theme.
 Once the site is hosted, go to the Theme Chooser and click the "Choose a Theme" button. You Will be redirected to a new page with a bunch of different themes on display. Take some time to find a theme that you like. Once you've set your mind on one, click "Select Theme". Now your resume has a them that you can view by clicking the link at the top of the "GitHub Pages" area of settings.
 
 ##### Step 4. Modify Your Jekyll Theme with Frontmatter
-Now that your resume has a them, we can modify the theme to make it a little more personal to you.  
+Now that your resume has a theme, we can modify the theme to make it a little more personal to you.  
 
 Step 1: Go to your configuration file.  
 Navigate back to your code tab in your repository. Now you'll find that there is a new file in your repository named "\_config.yml". Click on this file name to open it. Once on this page, click the pencil icon in the middle right of the screen to edit the text.
