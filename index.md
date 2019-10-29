@@ -3,7 +3,7 @@
 Phone: (204) 998 6577  
 Email: mackja@myumanitoba.ca
 
-## **Personal Profile:**  
+## **Personal Profile**  
 **Programming/Technical Experience**  
 
 | Language      | Experience Level|      
