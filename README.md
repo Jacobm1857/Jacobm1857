@@ -21,31 +21,19 @@ A front page will come up with a prompt for signing up.
 Step 2: Sign up for GitHub Pages.  
 There will be two options for account types: free or paid. You will only need the free version, but the paid subscription works if you so choose.
 
-#### Install Atom
-Next up, you will need Atom installed on your computer.  
-
-Step 1: Go to [Atom's Website](https://atom.io).  
-There will be a large button center screen prompting you to download.  
-
-Step 2: Download Atom.  
-Click the large download button to begin the download process.
-
-Step 3: Install Atom.  
-The installation process is (relatively) quick and simple. Follow the atom installer's prompts, and atom will be installed and ready in no time at all.
+#### Choose a Markdown editor
+Next up, you will need Atom installed on your computer. I highly recommend [Atom](https://atom.io), but you can use whichever you are most comfortable with.
 
 #### Create your Resume
-To get things started you're going to want to convert your resume into a Markdown file.  
+To get things started you're going to want to convert your resume into a Markdown file.
 
-Step 1: Open Atom.  
-Navigate to wherever you downloaded Atom to (likely your desktop) and open Atom. Atom is quite large and may take a few seconds to open. If this is your first time opening Atom, the program will walk you through some beginner steps.
+Step 1: Open your Markdown editor.  
+Simply open whichever editor you chose and create a new, blank, file.
 
-Step 2: Create a new file.  
-Click the file tab at the top left of your page and click the new file button.  
-
-Step 3: Convert your resume into Markdown.  
+Step 2: Convert your resume into Markdown.  
 If you're familiar with Markdown, this step shouldn't take long. If this is your first time hearing of Markdown or just need some practice, visit this [Markdown Tutorial.](https://www.markdowntutorial.com)  
 
-Step 4: Save the resume file as "index.md".  
+Step 3: Save the resume file as "index.md".  
 This naming convention is necessary for applying a Jekyll theme later.  
 
 #### Host your Resume on GitHub
@@ -60,7 +48,8 @@ On the left side of your GitHub home page, you can click the link that says, "Cr
 Step 2: Name the repository.  
 From here, you should input a meaningful repository name, as this will be publicly viewable. If you would like to eliminate ambiguity down the line, name the repository "[your GitHub name].github.io".
 
-Step 3: Finalize your repository. You can add a description if you would like, but it isn't necessary. Leave your repository as public, as you can't host a site if it's private. From here, you can choose to initialize with a README, although this tutorial won't cover the README's usage. Finally, hit the green "Create Repository" button and finish creating your repository!
+Step 3: Finalize your repository.  
+You can add a description if you would like, but it isn't necessary. Leave your repository as public, as you can't host a site if it's private. From here, you can choose to initialize with a README, although this tutorial won't cover the README's usage. Finally, hit the green "Create Repository" button and finish creating your repository!
 
 ##### Step 2. Add your Resume to the Repository
 In order to host a resume using GitHub, it will have to be uploaded to a repository.  
