@@ -1,13 +1,13 @@
 # How to Host Your Resume Using GitHub Pages
 
 ### Who is this Made For?
-This is written for those who have none to minimal experience with GitHub, Jekyll, Atom or Markdown. This tutorial will cover the steps for hosting a resume on GitHub pages more in-depth than the act of creating the resume itself. If you need help with creating an effective resume, visit the "Where Can You Get More Help?" section of this tutorial. 
+This is written for those who have none to minimal experience with GitHub, Jekyll, Atom or Markdown. This tutorial will cover the steps for hosting a resume on GitHub pages more in-depth than the act of creating the resume itself. If you need help with creating an effective resume, visit the "Where Can You Get More Help?" section of this tutorial.
 
 ### What Do You Need?
 You will need to have a few things in order to get started:
 1. A computer with available hard drive space.
 2. A current Email address.
-3. A resume
+3. A resume.
 4. A basic understanding of computers.
 5. Some patience.
 
@@ -34,22 +34,22 @@ Step 3: Install Atom.
 The installation process is (relatively) quick and simple. Follow the atom installer's prompts, and atom will be installed and ready in no time at all.
 
 #### Create your Resume
-To get things started you're going to want to convert your resume into a markdown file.  
+To get things started you're going to want to convert your resume into a Markdown file.  
 
 Step 1: Open Atom.  
-Navigate to wherever you downloaded Atom to (likely your desktop) and open Atom. Atom is quite large and may take a few seconds to open. If this is your first time opening Atom, the program will walk you through some beginner steps. 
+Navigate to wherever you downloaded Atom to (likely your desktop) and open Atom. Atom is quite large and may take a few seconds to open. If this is your first time opening Atom, the program will walk you through some beginner steps.
 
 Step 2: Create a new file.  
 Click the file tab at the top left of your page and click the new file button.  
 
-Step 3: Convert your resume into markdown.  
-If you're familiar with markdown, this step shouldn't take long. If this is your first time hearing of markdown or just need some practice, visit this [Markdown Tutorial.](https://www.markdowntutorial.com)  
+Step 3: Convert your resume into Markdown.  
+If you're familiar with Markdown, this step shouldn't take long. If this is your first time hearing of Markdown or just need some practice, visit this [Markdown Tutorial.](https://www.markdowntutorial.com)  
 
 Step 4: Save the resume file as "index.md".  
 This naming convention is necessary for applying a Jekyll theme later.  
 
 #### Host your Resume on GitHub
-Once you have your resume in markdown, it's time to start using your GitHub account. There are a few steps you'll need to take in order to host your resume. Many of these steps will be broken up into sub-steps, as the process can be quite complex.
+Once you have your resume in Markdown, it's time to start using your GitHub account. There are a few steps you'll need to take in order to host your resume. Many of these steps will be broken up into sub-steps, as the process can be quite complex.
 
 ##### Step 1: Make a Repository
 You will need to contain all necessary files in a repository in order to host your resume. Here, we will briefly go over the process of creating a repository.
@@ -78,7 +78,7 @@ Feel free to add a commit message if you would like in the space provided. It sh
 ##### Step 3. Host your Resume and Add a Jekyll Theme  
 Adding a Jekyll theme is a great way to add some flare to your resume. The following instructions will describe how exactly to add a theme using GitHub's theme chooser.  
 
-**WARNING:** Some Jekyll themes are not formatted to handle tables. If you use tables in your resume, preview your theme before you send out your link, as the table may be broken. 
+**WARNING:** Some Jekyll themes are not formatted to handle tables. If you use tables in your resume, preview your theme before you send out your link, as the table may be broken.
 
 Step 1: navigate to the settings tab of your repository.  
 This tab is located near the top of the screen, a little right of center. Click on it once you've located it.
@@ -112,20 +112,20 @@ In order to add theses fields to your resume page, scroll down to the bottom of 
 
 Give GitHub a few minutes to update everything before you try viewing your site again, as it may take a while to update. If you're not happy with how your theme looks, the title or the description, they can all be changed again following the same steps.
 
-Congratulations! Your resume is now finished and being hosted on GitHub pages!
+Congratulations! Your resume is now finished and hosted on GitHub Pages!
 
 
 ### Where Can You Get More Help?
 If you would like to learn more about Jekyll, check out [Mike Dane's Jekyll tutorials](www.https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB).  
 
-If you're looking for more markdown help, GitHub has a tutorial [available here](https://guides.github.com/features/mastering-markdown/).  
+If you're looking for more Markdown help, GitHub has a tutorial [available here](https://guides.github.com/features/mastering-markdown/).  
 
 If you would like more information on GitHub pages and hosting static websites, here's a few resources.
 - [GitHub's tutorial on pages](https://guides.github.com/features/pages/)
 - [ProgrammingKnowledge2's video tutorial](https://www.youtube.com/watch?v=nqXWfXNc0gs)
 - [OSTraining's Beginners Guide to GitHub Pages](https://www.ostraining.com/blog/coding/github-pages/)
 
-If you're looking for more help with creating a resume, check out this article by Christian Eilers at [Zety Blog](https://zety.com/blog/how-to-make-a-resume). He does a great job explaining the steps of creating a strong resume. 
+If you're looking for more help with creating a resume, check out this article by Christian Eilers at [Zety Blog](https://zety.com/blog/how-to-make-a-resume). He does a great job explaining the steps of creating a strong resume.
 
 ### Who Helped Make This?
 Special thanks to my group members Jordan Portz and Risto "Riki" Zimbakov for their assistance in creating my resume and web pages. Credit to Matt Graham for creating the theme that I used on my resume.
@@ -136,5 +136,5 @@ Here are some frequently asked questions (FAQs) if you need any extra help.
 Q. Can I further modify my resume theme's looks?  
 A. Yes. You can modify the theme's CSS to change it's looks. However, the method detailed above does not support this. If you would like a more customizable experience, follow [Mike Dane's Jekyll tutorials](www.https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB) and reference [Jekyll's documentation](https://jekyllrb.com/docs/themes/) for a more in depth method of site generation.
 
-Q. Why has my README.md's theme changed and not my resume?
+Q. Why has my README.md's theme changed and not my resume?  
 A. The README's theme changed, likely, because your resume is not named "index.md". Change the resume's file name by clicking the filename in the code section of your GitHub, clicking the pencil icon, then changing the filename near the top of the page. Reload your webpage and check to make sure the theme has been applied properly.
